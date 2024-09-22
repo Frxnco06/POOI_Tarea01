@@ -1,0 +1,7 @@
+C:\Users\USER\Downloads\POOI_Tarea1\POOI_Problema04\POOI_Problema04\bin\Debug\POOI_Problema04.exe.config
+C:\Users\USER\Downloads\POOI_Tarea1\POOI_Problema04\POOI_Problema04\bin\Debug\POOI_Problema04.exe
+C:\Users\USER\Downloads\POOI_Tarea1\POOI_Problema04\POOI_Problema04\bin\Debug\POOI_Problema04.pdb
+C:\Users\USER\Downloads\POOI_Tarea1\POOI_Problema04\POOI_Problema04\obj\Debug\POOI_Problema04.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\POOI_Tarea1\POOI_Problema04\POOI_Problema04\obj\Debug\POOI_Problema04.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\POOI_Tarea1\POOI_Problema04\POOI_Problema04\obj\Debug\POOI_Problema04.exe
+C:\Users\USER\Downloads\POOI_Tarea1\POOI_Problema04\POOI_Problema04\obj\Debug\POOI_Problema04.pdb
